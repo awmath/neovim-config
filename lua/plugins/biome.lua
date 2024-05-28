@@ -5,7 +5,7 @@ return {
       --- other options
       servers = {
         tsserver = {
-          autostart = false,
+--          autostart = false,
         },
         biome = {},
         -- other language servers
